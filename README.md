@@ -1,4 +1,4 @@
-# HW7-Python-AI-Project
+# HW7-TravelGuide-AI-Project
 
 # Travel Guide AI – Homework 6  
 **Author:** Zafar Adil  
